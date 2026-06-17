@@ -148,9 +148,12 @@ Data inflasi yang diperoleh dari Bank Indonesia periode Januari 2014 hingga Agus
 
 Inflasi Indonesia cenderung terkendali dalam satu digit, dengan puncak pada 2014–2015 pasca kenaikan harga BBM dan akhir 2022 akibat tekanan energi global. Pada masa pandemi COVID-19, inflasi mencapai titik terendah 1,32% (Agustus 2020).
 
-* **Gambar 4.1. Tren Inflasi Indonesia (2014–2024)** (Grafik dapat dilihat pada folder `visuals/trend_inflasi.png`)
-* **Gambar 4.2. Distribusi Tingkat Inflasi (2014–2024)** (Grafik dapat dilihat pada folder `visuals/distribusi_inflasi.png`)
+* **Gambar 4.1. Tren Inflasi Indonesia (2014–2024)**
+  ![Tren Inflasi Indonesia](Tren_Inflasi.png)
 
+* **Gambar 4.2. Distribusi Tingkat Inflasi (2014–2024)**
+  ![Distribusi Tingkat Inflasi](distribusi_tingkat_inflasi.png)
+  
 #### 1. Analisis Kesiapan Redenominasi Berdasarkan Kriteria Inflasi
 
 **Tabel 4.2. Distribusi Kesiapan Redenominasi Berdasarkan Kriteria Inflasi**
@@ -198,8 +201,11 @@ JUB Indonesia meningkat signifikan dari sekitar Rp3.000 triliun (awal 2012) menj
 
 Sebelas bulan dengan pertumbuhan JUB >15% terkonsentrasi pada awal 2012–2013 dan satu bulan di awal pandemi (Februari 2020). Sejak Maret 2013, pertumbuhan JUB konsisten di bawah 15% selama lebih dari 10 tahun, dengan tren menurun menjadi rata-rata 7,74% pada periode 2021–2023.
 
-* **Gambar 4.3. Tren Jumlah Uang Beredar (M2) Indonesia Periode 2012–2023** (Lihat `visuals/trend_m2.png`)
-* **Gambar 4.4. Pertumbuhan Tahunan JUB (YoY) Periode 2012–2023** (Lihat `visuals/pertumbuhan_jub.png`)
+* **Gambar 4.3. Tren Jumlah Uang Beredar (M2) Indonesia Periode 2012–2023**
+  ![Tren Jumlah Uang Beredar M2](JUB.png)
+
+* **Gambar 4.4. Pertumbuhan Tahunan JUB (YoY) Periode 2012–2023**
+  ![Pertumbuhan Tahunan JUB](pertumbuhan_tahunan_JUB.png)
 
 ### C. Hasil Pengolahan Data PDB Riil
 Data PDB riil yang digunakan merupakan data aktual BPS atas dasar harga konstan 2010, mencakup Triwulan I 2011 hingga Triwulan II 2024 dengan total 54 triwulan (13,5 tahun). Penelitian ini tidak menggunakan data proyeksi pasca-2024.
@@ -238,8 +244,11 @@ Data PDB riil yang digunakan merupakan data aktual BPS atas dasar harga konstan 
 
 Tidak ditemukan periode dengan pertumbuhan PDB riil di atas 4% selama dua tahun (delapan triwulan) berturut-turut dalam data aktual 2011–2024. Ini merupakan hambatan utama kesiapan redenominasi dari sisi pertumbuhan ekonomi.
 
-* **Gambar 4.5. Tren PDB Riil Indonesia Triwulanan (2011–2024)** (Lihat `visuals/trend_pdb.png`)
-* **Gambar 4.6. Pertumbuhan Tahunan PDB Riil (YoY) 2011–2024** (Lihat `visuals/pertumbuhan_pdb.png`)
+* **Gambar 4.5. Tren PDB Riil Indonesia Triwulanan (2011–2024)**
+  ![Tren PDB Riil Indonesia](PDB_Riil.png)
+
+* **Gambar 4.6. Pertumbuhan Tahunan PDB Riil (YoY) 2011–2024**
+  ![Pertumbuhan Tahunan PDB Riil](pertumbuhan_PDB.png)
 
 ### D. Hasil Pengolahan Data Kurs IDR/USD
 
@@ -272,6 +281,12 @@ Seluruh 179 bulan pengamatan (100%) memenuhi kriteria stabilitas kurs dengan flu
 | Fluktuasi kurs | <5% per bulan | 0,22% rata-rata | Terpenuhi |
 | Konsistensi stabilitas | Minimal 2 years | 14 tahun (2010–2024) | Terpenuhi |
 | Tidak ada fluktuasi ekstrem | Tidak ada >5% | 0 bulan dari 179 | Terpenuhi |
+
+* **Gambar 4.7. Tren Kurs Rupiah terhadap Dolar AS (2010–2024)**
+  ![Tren Kurs Rupiah](tren_Kurs_Rupiah.png)
+
+* **Gambar 4.8. Fluktuasi Bulanan Kurs Rupiah (2010–2024)**
+  ![Fluktuasi Bulanan Kurs Rupiah](Fluktuasi_kurs.png)
 
 ### E. Evaluasi Keseluruhan Kesiapan Redenominasi
 

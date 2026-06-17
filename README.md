@@ -248,7 +248,7 @@ Tidak ditemukan periode dengan pertumbuhan PDB riil di atas 4% selama dua tahun 
   ![Tren PDB Riil Indonesia](PDB_Riil.png)
 
 * **Gambar 4.6. Pertumbuhan Tahunan PDB Riil (YoY) 2011–2024**
-  ![Pertumbuhan Tahunan PDB Riil](pertumbuhan_PDB.png)
+  ![Pertumbuhan Tahunan PDB Riil](pertumuhan_PDB.png)
 
 ### D. Hasil Pengolahan Data Kurs IDR/USD
 
